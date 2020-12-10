@@ -1,4 +1,4 @@
-This exercise is from Cay Horstmann, Big Java Early Objects Page 123 6th edition
+This exercise is from Cay Horstmann, Big Java Early Objects, 6th edition, page 123 
 
 Implement a class Product. A product has a name and a price, for example new
 Product("Toaster", 29.95). Supply methods getName, getPrice, and reducePrice. Supply
